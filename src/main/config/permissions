@@ -1,0 +1,16 @@
+# This is a sample Create Component
+Binary3.Binary3.CreateComponent {
+allow java.security.AllPermission;
+}
+# This is a sample Read Component
+Binary3.Binary3.ReadComponent {
+allow java.security.AllPermission;
+}
+# This is a sample Update Component
+Binary3.Binary3.UpdateComponent {
+allow java.security.AllPermission;
+}
+# This is a sample Delete Component
+Binary3.Binary3.DeleteComponent {
+allow java.security.AllPermission;
+}

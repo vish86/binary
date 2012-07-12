@@ -1,0 +1,1 @@
+SnapLogic-Components: Binary3.Binary3.BinWriteInput, Binary3.Binary3.BinWriteInput$1, Binary3.Binary3.BinReadInput$1, Binary3.Binary3.BinReadInput
